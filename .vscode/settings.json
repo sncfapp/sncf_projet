@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "C:Users/smammar/AppData/Local/Programs/Python",
+    "python.analysis.extraPaths": ["sncf_projet", "another/path/etc"]
+}
